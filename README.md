@@ -73,7 +73,7 @@
 
 *   **Backend:** Python 3.9+, Flask 2.0+.
 *   **Frontend:** React 18.
-*   **Database:** PostgreSQL 18, FastAPY .
+*   **Database:** PostgreSQL 18, FastAPI.
 
 
 ---
