@@ -68,17 +68,16 @@
 *   **cars:** Автопарк (id, марка, модель, госномер, статус, тарифы).
 *   **rentals:** Договоры аренды (id, client_id, car_id, даты, стоимость, статус).
 *   **payments:** Финансовые операции (id, rental_id, сумма, тип, статус оплаты).
-*   **safety_briefings:** Инструктажи (id, client_id, дата, тип, срок действия).
 *   **users:** Учётные записи (id, login, password_hash, role).
 
 ---
 
 ## 🛠 Технологический стек
 
-*   **Backend:** Python 3.9+, Flask 2.0+, SQLAlchemy.
-*   **Frontend:** React 18+, Material UI, Axios.
-*   **Database:** PostgreSQL 13+, pgAdmin.
-*   **DevOps:** Git, Docker, Swagger.
+*   **Backend:** Python 3.9+, Flask 2.0+.
+*   **Frontend:** React 18.
+*   **Database:** PostgreSQL 18, FastAPY .
+
 
 ---
 
